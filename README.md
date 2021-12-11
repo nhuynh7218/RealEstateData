@@ -36,9 +36,14 @@ One thing I should have done with this project was to also add datasets from pre
 
 Citations:
 https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
+
 https://linuxhint.com/house-price-prediction-linear-regression/
+
 https://www1.nyc.gov/assets/finance/downloads/pdf/07pdf/glossary_rsf071607.pdf
+
 https://newsilver.com/the-lender/history-of-housing-market-crashes/
+
 https://pandas.pydata.org/docs/
+
 https://www.kite.com/python/docs/matplotlib
 
